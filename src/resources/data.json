@@ -1,0 +1,68 @@
+{"contacts": [
+{
+    "id": 1,
+    "name": "John Smith",
+    "phoneNumber": "+3546984224",
+    "img": null
+},
+{
+    "id": 2,
+    "name": "Siggi Valur",
+    "phoneNumber": "6900098",
+    "img": "https://reactnative.dev/img/tiny_logo.png"
+},
+{
+    "id": 3,
+    "name": "Martha Clara",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 4,
+    "name": "Hafdis Anja",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 5,
+    "name": "Anton",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 6,
+    "name": "John Smith",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 7,
+    "name": "Siggi Valur",
+    "phoneNumber": "6900098",
+    "img": "https://reactnative.dev/img/tiny_logo.png"
+},
+{
+    "id": 8,
+    "name": "Martha Clara",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 9,
+    "name": "Hafdis Anja",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 10,
+    "name": "Anton",
+    "phoneNumber": "8931234",
+    "img": null
+},
+{
+    "id": 11,
+    "name": "John Smith",
+    "phoneNumber": "8931234",
+    "img": null
+}
+]}
